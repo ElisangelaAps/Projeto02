@@ -1,0 +1,53 @@
+{{> header }}
+<h1 style="text-align: center"> Grade de horário 1º Semestre </h1>
+<table border="1" align="center" width="800" height="600"  >
+
+   <thead>
+   <tr>
+       <th style=" background-color:#B0C4DE"> Disciplina</th>
+       <th style=" background-color:#B0C4DE">Professor</th>
+       <th style=" background-color:#B0C4DE">Situação</th>
+   </tr>
+   </thead>
+
+   <tbody>
+<tr>
+       <td>Algoritmo e Lógica de Programação</td>
+       <td>Andrea Zotovici</td>
+       <td style=" background-color:#7FFFD4"><input input type="checkbox" name=mybox value="1" checked> Aprovada</td>
+</tr>
+
+<tr>
+       <td>Design Digital</td>
+       <td>Fabio Gomes</td>
+       <td style=" background-color:#7FFFD4"><input input type="checkbox" name=mybox value="1" checked> Aprovada</td>
+</tr>
+
+<tr>
+       <td>Desenvolvimento Web I</td>
+        <td>Leide Aparecida</td>
+       <td style=" background-color:#7FFFD4"><input input type="checkbox" name=mybox value="1" checked> Aprovada</td>
+</tr>
+
+<tr>
+       <td>Engenharia de software I</td>
+       <td>Andrea Zotovici</td>
+       <td style=" background-color:#B0C4DE"><input input type="checkbox" name=mybox value="1"> Aprovada</td>
+</tr>
+
+<tr>
+       <td>Sistemas Operacionais e Redes de Computadores</td>
+       <td>Ismael Parede</td>
+       <td style=" background-color:#7FFFD4"><input input type="checkbox" name=mybox value="1" checked> Aprovada</td>
+</tr>
+      
+<tr>
+       <td>Modelagem de Banco de Dados</td>
+       <td>Sueli Loddi</td>
+       <td style=" background-color:#7FFFD4"><input input type="checkbox" name=mybox value="1" checked> Aprovada</td>
+<tr>
+   
+</tbody>
+
+</table>
+

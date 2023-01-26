@@ -1,3 +1,10 @@
-<h3> CABEÇALHO </h3>
+<div style="background: linear-gradient(90deg, #4169E1 0%, #87CEFA 80%);">
+<h1 style="text-align: center"> Rotas da Eli </h1>
+<h3 style="text-align: center"> Sigam-me os bons... </h3>
+<p style="text-align: center"><i> Projeto de rotas com Node.Js, grade de horários do curso Desenvolvimento de software multiplataforma - FATEC Diadema</i></p>
 <hr>
+</div>
+
+
+
 
