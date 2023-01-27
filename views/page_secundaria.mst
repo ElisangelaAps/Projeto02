@@ -12,41 +12,49 @@
 
    <tbody>
 <tr>
-       <td>Algoritmo e Lógica de Programação</td>
-       <td>Andrea Zotovici</td>
-       <td style=" background-color:#7FFFD4"><input input type="checkbox" name=mybox value="1" checked> Aprovada</td>
+       <td>Álgebra Linear</td>
+       <td style="text-align: center"> -- </td>
+       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
 </tr>
 
 <tr>
-       <td>Design Digital</td>
-       <td>Fabio Gomes</td>
-       <td style=" background-color:#7FFFD4"><input input type="checkbox" name=mybox value="1" checked> Aprovada</td>
+       <td>Banco de Dados - Não relacional</td>
+       <td style="text-align: center"> -- </td>
+       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
 </tr>
 
 <tr>
-       <td>Desenvolvimento Web I</td>
-        <td>Leide Aparecida</td>
-       <td style=" background-color:#7FFFD4"><input input type="checkbox" name=mybox value="1" checked> Aprovada</td>
+       <td>Desenvolvimento Web III</td>
+        <td style="text-align: center"> -- </td>
+       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
 </tr>
 
 <tr>
-       <td>Engenharia de software I</td>
-       <td>Andrea Zotovici</td>
-       <td style=" background-color:#B0C4DE"><input input type="checkbox" name=mybox value="1"> Aprovada</td>
+       <td>Engenharia de software II</td>
+       <td style="text-align: center"> -- </td>
+       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
 </tr>
 
 <tr>
-       <td>Sistemas Operacionais e Redes de Computadores</td>
-       <td>Ismael Parede</td>
-       <td style=" background-color:#7FFFD4"><input input type="checkbox" name=mybox value="1" checked> Aprovada</td>
+       <td>Inglês I</td>
+       <td style="text-align: center"> -- </td>
+       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
+<tr>
+   
+
+<tr>
+       <td>Interação Humano Computador</td>
+       <td style="text-align: center"> -- </td>
+       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
 </tr>
       
 <tr>
-       <td>Modelagem de Banco de Dados</td>
-       <td>Sueli Loddi</td>
-       <td style=" background-color:#7FFFD4"><input input type="checkbox" name=mybox value="1" checked> Aprovada</td>
-<tr>
-   
+       <td>Técnica de Programação II</td>
+       <td style="text-align: center"> -- </td>
+       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
+</tr>
+      
+
 </tbody>
 
 </table>
