@@ -1,4 +1,26 @@
 {{> header }}
+<div style="text-align: center">
+    <h1> VOCÊ ESTÁ NA ROTA PRIMARIA </h1>
+    <p><i>Essas paginas contém MINHAS grades de disciplinas do 1º, 2º e 3º semestre da faculdade de tecnologia FATEC.</i></p>
+        <br>
+    <p><i>Projeto desenvolvido com a arquitetura MVC, contendo 3 rotas distintas.</i></p>
+ <hr />
+        <br>
+        <br>
+</div>
+<ul>
+    <p><u>Grade de horarios do 3º semestre (geral) utilizando as tecnicas apresentadas em sala pelo Professor Vinicius Heltai.  </u></p>
+        <br>
+        <br>
+    {{#disciplinas}}
+        <li>
+            <strong>Nome da matéria: </strong>{{nome}} ____ 
+            <strong>Dia da semana: </strong>{{dia}} ____ 
+            <strong>Horário: </strong>{{horario}}
+        </li>
+        <br>
+    {{/disciplinas}}
+</ul>
 
-<h1> PAGINA HOME </h1>
+
 

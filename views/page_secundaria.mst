@@ -1,61 +1,68 @@
 {{> header }}
-<h1 style="text-align: center"> Grade de horário 1º Semestre </h1>
+<h1 style="text-align: center"> VOCÊ ESTÁ NA ROTA SECUNDÁRIA </h1>
+<p style="text-align: center"><i>Essas paginas contém MINHAS grades de disciplinas do 1º, 2º e 3º semestre da faculdade de tecnologia FATEC.</i></p>       
+<br>
+<hr />
+<br>
+<br>
+<h1 style="text-align: center"> Grade de horário 3º Semestre </h1>
+<br>
+<br>
 <table border="1" align="center" width="800" height="600"  >
+       <thead>
+              <tr>
+                     <th style=" background-color:#B0C4DE"> Disciplina</th>
+                     <th style=" background-color:#B0C4DE">Professor</th>
+                     <th style=" background-color:#B0C4DE">Situação</th>
+              </tr>
+       </thead>
 
-   <thead>
-   <tr>
-       <th style=" background-color:#B0C4DE"> Disciplina</th>
-       <th style=" background-color:#B0C4DE">Professor</th>
-       <th style=" background-color:#B0C4DE">Situação</th>
-   </tr>
-   </thead>
+              <tbody>
+              <tr>
+                     <td>Álgebra Linear</td>
+                     <td style="text-align: center"> -- </td>
+                     <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
+              </tr>
 
-   <tbody>
-<tr>
-       <td>Álgebra Linear</td>
-       <td style="text-align: center"> -- </td>
-       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
-</tr>
+              <tr>
+                     <td>Banco de Dados - Não relacional</td>
+                     <td style="text-align: center"> -- </td>
+                     <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
+              </tr>
 
-<tr>
-       <td>Banco de Dados - Não relacional</td>
-       <td style="text-align: center"> -- </td>
-       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
-</tr>
+              <tr>
+                     <td>Desenvolvimento Web III</td>
+                     <td style="text-align: center"> -- </td>
+                     <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
+              </tr>
 
-<tr>
-       <td>Desenvolvimento Web III</td>
-        <td style="text-align: center"> -- </td>
-       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
-</tr>
+              <tr>
+                     <td>Engenharia de software II</td>
+                     <td style="text-align: center"> -- </td>
+                     <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
+              </tr>
 
-<tr>
-       <td>Engenharia de software II</td>
-       <td style="text-align: center"> -- </td>
-       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
-</tr>
+              <tr>
+                     <td>Inglês I</td>
+                     <td style="text-align: center"> -- </td>
+                     <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
+              <tr>
+              
 
-<tr>
-       <td>Inglês I</td>
-       <td style="text-align: center"> -- </td>
-       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
-<tr>
-   
+              <tr>
+                     <td>Interação Humano Computador</td>
+                     <td style="text-align: center"> -- </td>
+                     <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
+              </tr>
+              
+              <tr>
+                     <td>Técnica de Programação II</td>
+                     <td style="text-align: center"> -- </td>
+                     <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
+              </tr>
+              
 
-<tr>
-       <td>Interação Humano Computador</td>
-       <td style="text-align: center"> -- </td>
-       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
-</tr>
-      
-<tr>
-       <td>Técnica de Programação II</td>
-       <td style="text-align: center"> -- </td>
-       <td style=" background-color:#FFFACD"><input input type="checkbox" name=mybox value="1"> Em curso</td>
-</tr>
-      
-
-</tbody>
+              </tbody>
 
 </table>
 
